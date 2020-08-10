@@ -7,7 +7,7 @@ h1{
  	transform: translate(-50%,-50%);
  	text-transform: uppercase;
  	font-family: 'Roberto';
- font-weight: 900
+ font-weight: 900;
  	
  	font-size: 50px;
  	background-image: linear-gradient(90deg,RED,green,blue);
